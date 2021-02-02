@@ -69,7 +69,7 @@
                         "color" => hexdec("e0005a"),
                         "timestamp" => date("c"),
                          "footer" => [
-                             "text" => "Powered By Spito",
+                             "text" => "Powered By Toco",
                              "icon_url" => "https://cdn.discordapp.com/icons/796867055889678346/7445f9e5cadf02b020c24210ae535d41.png",
                         ],
                         "fields" => [
